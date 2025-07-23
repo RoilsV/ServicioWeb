@@ -1,0 +1,12 @@
+{
+  "name": "agenda-web",
+  "version": "1.0.0",
+  "description": "Agenda web con Express y almacenamiento local",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
